@@ -1,0 +1,794 @@
+[
+  {
+    "addressComponents": [
+      {
+        "longName": "373",
+        "shortName": "373",
+        "types": [
+          "STREET_NUMBER"
+        ]
+      },
+      {
+        "longName": "Carrer d'Aragó",
+        "shortName": "Carrer d'Aragó",
+        "types": [
+          "ROUTE"
+        ]
+      },
+      {
+        "longName": "Barcelona",
+        "shortName": "Barcelona",
+        "types": [
+          "LOCALITY",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Barcelona",
+        "shortName": "Barcelona",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_2",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Catalunya",
+        "shortName": "CT",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_1",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Spain",
+        "shortName": "ES",
+        "types": [
+          "COUNTRY",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "08013",
+        "shortName": "08013",
+        "types": [
+          "POSTAL_CODE"
+        ]
+      }
+    ],
+    "formattedAddress": "Carrer d'Aragó, 373, 08013 Barcelona, España",
+    "geometry": {
+      "location": {
+        "lat": 41.398477,
+        "lng": 2.1727717
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 41.3998259802915,
+          "lng": 2.174120680291502
+        },
+        "southwest": {
+          "lat": 41.3971280197085,
+          "lng": 2.171422719708498
+        }
+      }
+    },
+    "placeId": "ChIJB7OMWOiipBIR_kl9xXxmHo0",
+    "types": [
+      "STREET_ADDRESS"
+    ]
+  },
+  {
+    "address_components": [
+      {
+        "longName": "La Dreta de l'Eixample",
+        "shortName": "La Dreta de l'Eixample",
+        "types": [
+          "NEIGHTBORHOOD",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Distrito del Ensanche",
+        "shortName": "Distrito del Ensanche",
+        "types": [
+          "POLITICAL",
+          "SUBLOCALITY",
+          "SUBLOCALITY_LEVEL_1"
+        ]
+      },
+      {
+        "longName": "Barcelona",
+        "shortName": "Barcelona",
+        "types": [
+          "LOCALITY",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "El Barcelonés",
+        "shortName": "El Barcelonés",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_3",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Barcelona",
+        "shortName": "Barcelona",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_2",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Cataluña",
+        "shortName": "CT",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_1",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "España",
+        "shortName": "ES",
+        "types": [
+          "COUNTRY",
+          "POLITICAL"
+        ]
+      }
+    ],
+    "formattedAddress": "La Dreta de l'Eixample, Barcelona, España",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 41.4026129,
+          "lng": 2.1802258
+        },
+        "southwest": {
+          "lat": 41.3855099,
+          "lng": 2.1548261
+        }
+      },
+      "location": {
+        "lat": 41.3963097,
+        "lng": 2.1653831
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 41.4026129,
+          "lng": 2.1802258
+        },
+        "southwest": {
+          "lat": 41.3855099,
+          "lng": 2.1548261
+        }
+      }
+    },
+    "placeId": "ChIJ_5rXKOyipBIRkvCCQOH6ACY",
+    "types": [
+      "NEIGHTBORHOOD",
+      "POLITICAL"
+    ]
+  },
+  {
+    "address_components": [
+      {
+        "longName": "Distrito del Ensanche",
+        "shortName": "Distrito del Ensanche",
+        "types": [
+          "POLITICAL",
+          "SUBLOCALITY",
+          "SUBLOCALITY_LEVEL_1"
+        ]
+      },
+      {
+        "longName": "Barcelona",
+        "shortName": "Barcelona",
+        "types": [
+          "LOCALITY",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "El Barcelonés",
+        "shortName": "El Barcelonés",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_3",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Barcelona",
+        "shortName": "Barcelona",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_2",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Cataluña",
+        "shortName": "CT",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_1",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "España",
+        "shortName": "ES",
+        "types": [
+          "COUNTRY",
+          "POLITICAL"
+        ]
+      }
+    ],
+    "formattedAddress": "Distrito del Ensanche, Barcelona, España",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 41.412005,
+          "lng": 2.1868999
+        },
+        "southwest": {
+          "lat": 41.374956,
+          "lng": 2.1424718
+        }
+      },
+      "location": {
+        "lat": 41.391843,
+        "lng": 2.1641969
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 41.412005,
+          "lng": 2.1868999
+        },
+        "southwest": {
+          "lat": 41.374956,
+          "lng": 2.1424718
+        }
+      }
+    },
+    "placeId": "ChIJoT6We42ipBIRXSD1RAXV5p4",
+    "types": [
+      "POLITICAL",
+      "SUBLOCALITY",
+      "SUBLOCALITY_LEVEL_1"
+    ]
+  },
+  {
+    "address_components": [
+      {
+        "longName": "Barcelona",
+        "shortName": "Barcelona",
+        "types": [
+          "LOCALITY",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Barcelona",
+        "shortName": "Barcelona",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_4",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "El Barcelonés",
+        "shortName": "El Barcelonés",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_3",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Barcelona",
+        "shortName": "Barcelona",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_2",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Cataluña",
+        "shortName": "CT",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_1",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "España",
+        "shortName": "ES",
+        "types": [
+          "COUNTRY",
+          "POLITICAL"
+        ]
+      }
+    ],
+    "formattedAddress": "Barcelona, España",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 41.4695761,
+          "lng": 2.2280099
+        },
+        "southwest": {
+          "lat": 41.320004,
+          "lng": 2.0695258
+        }
+      },
+      "location": {
+        "lat": 41.3850639,
+        "lng": 2.1734035
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 41.4695761,
+          "lng": 2.2280099
+        },
+        "southwest": {
+          "lat": 41.320004,
+          "lng": 2.0695258
+        }
+      }
+    },
+    "placeId": "ChIJ5TCOcRaYpBIRCmZHTz37sEQ",
+    "types": [
+      "LOCALITY",
+      "POLITICAL"
+    ]
+  },
+  {
+    "address_components": [
+      {
+        "longName": "08009",
+        "shortName": "08009",
+        "types": [
+          "POSTAL_CODE"
+        ]
+      },
+      {
+        "longName": "Barcelona",
+        "shortName": "Barcelona",
+        "types": [
+          "LOCALITY",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Barcelona",
+        "shortName": "Barcelona",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_2",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Cataluña",
+        "shortName": "CT",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_1",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "España",
+        "shortName": "ES",
+        "types": [
+          "COUNTRY",
+          "POLITICAL"
+        ]
+      }
+    ],
+    "formattedAddress": "08009 Barcelona, España",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 41.3995145,
+          "lng": 2.1761137
+        },
+        "southwest": {
+          "lat": 41.3907132,
+          "lng": 2.1642634
+        }
+      },
+      "location": {
+        "lat": 41.3945632,
+        "lng": 2.1708139
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 41.3995145,
+          "lng": 2.1761137
+        },
+        "southwest": {
+          "lat": 41.3907132,
+          "lng": 2.1642634
+        }
+      }
+    },
+    "placeId": "ChIJMzSSuu6ipBIRwE5HeuP6ABw",
+    "types": [
+      "POSTAL_CODE"
+    ]
+  },
+  {
+    "address_components": [
+      {
+        "longName": "Barcelona",
+        "shortName": "Barcelona",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_4",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "El Barcelonés",
+        "shortName": "El Barcelonés",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_3",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Barcelona",
+        "shortName": "Barcelona",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_2",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Cataluña",
+        "shortName": "CT",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_1",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "España",
+        "shortName": "ES",
+        "types": [
+          "COUNTRY",
+          "POLITICAL"
+        ]
+      }
+    ],
+    "formattedAddress": "Barcelona, España",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 41.46794269999999,
+          "lng": 2.2280099
+        },
+        "southwest": {
+          "lat": 41.320004,
+          "lng": 2.0524976
+        }
+      },
+      "location": {
+        "lat": 41.3850494,
+        "lng": 2.1733247
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 41.46794269999999,
+          "lng": 2.2280099
+        },
+        "southwest": {
+          "lat": 41.320004,
+          "lng": 2.0524976
+        }
+      }
+    },
+    "placeId": "ChIJ9SjtJnGYpBIRMAOkIeD6AAQ",
+    "types": [
+      "ADMINISTRATIVE_AREA_LEVEL_4",
+      "POLITICAL"
+    ]
+  },
+  {
+    "address_components": [
+      {
+        "longName": "El Barcelonés",
+        "shortName": "El Barcelonés",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_3",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Barcelona",
+        "shortName": "Barcelona",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_2",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Cataluña",
+        "shortName": "CT",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_1",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "España",
+        "shortName": "ES",
+        "types": [
+          "COUNTRY",
+          "POLITICAL"
+        ]
+      }
+    ],
+    "formattedAddress": "El Barcelonés, Barcelona, España",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 41.4929026,
+          "lng": 2.2706524
+        },
+        "southwest": {
+          "lat": 41.3200453,
+          "lng": 2.0529518
+        }
+      },
+      "location": {
+        "lat": 41.4016668,
+        "lng": 2.1253854
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 41.4929026,
+          "lng": 2.2706524
+        },
+        "southwest": {
+          "lat": 41.3200453,
+          "lng": 2.0529518
+        }
+      }
+    },
+    "placeId": "ChIJcQYdL7mipBIRQ2KtcuxW2Hg",
+    "types": [
+      "ADMINISTRATIVE_AREA_LEVEL_3",
+      "POLITICAL"
+    ]
+  },
+  {
+    "address_components": [
+      {
+        "longName": "Barcelona Metropolitan Area",
+        "shortName": "Barcelona Metropolitan Area",
+        "types": [
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Barcelona",
+        "shortName": "Barcelona",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_2",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Catalonia",
+        "shortName": "CT",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_1",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "España",
+        "shortName": "ES",
+        "types": [
+          "COUNTRY",
+          "POLITICAL"
+        ]
+      }
+    ],
+    "formattedAddress": "Barcelona Metropolitan Area, Barcelona, España",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 41.57498469999999,
+          "lng": 2.2963814
+        },
+        "southwest": {
+          "lat": 41.2636384,
+          "lng": 1.846731
+        }
+      },
+      "location": {
+        "lat": 41.383401,
+        "lng": 2.027319
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 41.57498469999999,
+          "lng": 2.2963814
+        },
+        "southwest": {
+          "lat": 41.2636384,
+          "lng": 1.846731
+        }
+      }
+    },
+    "placeId": "ChIJR7wL1XaYpBIR7EoGAtgHJ0Y",
+    "types": [
+      "POLITICAL"
+    ]
+  },
+  {
+    "address_components": [
+      {
+        "longName": "Barcelona",
+        "shortName": "Barcelona",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_2",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "Cataluña",
+        "shortName": "CT",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_1",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "España",
+        "shortName": "ES",
+        "types": [
+          "COUNTRY",
+          "POLITICAL"
+        ]
+      }
+    ],
+    "formattedAddress": "Barcelona, España",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 42.32330109999999,
+          "lng": 2.7777843
+        },
+        "southwest": {
+          "lat": 41.1927452,
+          "lng": 1.3596215
+        }
+      },
+      "location": {
+        "lat": 41.3850477,
+        "lng": 2.1733131
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 42.32330109999999,
+          "lng": 2.7777843
+        },
+        "southwest": {
+          "lat": 41.1927452,
+          "lng": 1.3596215
+        }
+      }
+    },
+    "placeId": "ChIJZb1_yQvmpBIRsMmjIeD6AAM",
+    "types": [
+      "ADMINISTRATIVE_AREA_LEVEL_2",
+      "POLITICAL"
+    ]
+  },
+  {
+    "address_components": [
+      {
+        "longName": "Cataluña",
+        "shortName": "CT",
+        "types": [
+          "ADMINISTRATIVE_AREA_LEVEL_1",
+          "POLITICAL"
+        ]
+      },
+      {
+        "longName": "España",
+        "shortName": "ES",
+        "types": [
+          "COUNTRY",
+          "POLITICAL"
+        ]
+      }
+    ],
+    "formattedAddress": "Cataluña, España",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 42.8614502,
+          "lng": 3.3325539
+        },
+        "southwest": {
+          "lat": 40.5230466,
+          "lng": 0.1591811
+        }
+      },
+      "location": {
+        "lat": 41.5911589,
+        "lng": 1.5208624
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 42.8614502,
+          "lng": 3.3325539
+        },
+        "southwest": {
+          "lat": 40.5230466,
+          "lng": 0.1591811
+        }
+      }
+    },
+    "placeId": "ChIJ8_UwhdxbpBIRUMijIeD6AAE",
+    "types": [
+      "ADMINISTRATIVE_AREA_LEVEL_1",
+      "POLITICAL"
+    ]
+  },
+  {
+    "address_components": [
+      {
+        "longName": "España",
+        "shortName": "ES",
+        "types": [
+          "COUNTRY",
+          "POLITICAL"
+        ]
+      }
+    ],
+    "formattedAddress": "España",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 43.8504,
+          "lng": 4.6362
+        },
+        "southwest": {
+          "lat": 27.4985,
+          "lng": -18.2648001
+        }
+      },
+      "location": {
+        "lat": 40.46366700000001,
+        "lng": -3.74922
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 45.244,
+          "lng": 5.098
+        },
+        "southwest": {
+          "lat": 35.17300000000001,
+          "lng": -12.524
+        }
+      }
+    },
+    "placeId": "ChIJi7xhMnjjQgwR7KNoB5Qs7KY",
+    "types": [
+      "COUNTRY",
+      "POLITICAL"
+    ]
+  }
+]

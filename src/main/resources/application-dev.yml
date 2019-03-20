@@ -1,0 +1,20 @@
+
+# API Context Properties#
+server.port: 8080
+server.servlet.contextPath: /geoapi
+
+#Platform Context Configuration Params #
+geoapi:
+  googlemaps:
+    url: asd
+    key: AIzaSyA79zIw5IehKeIvPsgXwhDYW17XuSZ8VAI
+  geonames:
+    username: kdekiri
+
+# Platform Logging Configuration Params #
+logging.level.root:
+logging.pattern.console:
+logging.level.org.springframework: DEBUG
+logging.level.org.springframework.web: DEBUG
+logging.file: ${HOME}/geo-api.log
+logging.pattern.file: "%d{yyyy-MM-dd HH:mm:ss} - %msg%n"

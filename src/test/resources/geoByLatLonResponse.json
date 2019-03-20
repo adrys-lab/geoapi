@@ -1,0 +1,19 @@
+{
+  "geoPoint": {
+    "latitude": 41.398477,
+    "longitude": 2.1727717
+  },
+  "zipCode": "08013",
+  "direction": {
+    "street": "Carrer d'Aragó",
+    "number": 373
+  },
+  "city": {
+    "shortName": "Barcelona",
+    "longName": "Barcelona"
+  },
+  "country": {
+    "shortName": "ES",
+    "longName": "Spain"
+  }
+}
